@@ -1,0 +1,13 @@
+Домашнее задание от 13 мая 2025 года
+
+1. Установить Total Commander
+https://totalcommander.ch/1151/tcmd1151x64.exe
+https://totalcommander.ch/1151/tcmd1151x32.exe
+
+2. Начать изучение документации по GitHub
+https://docs.github.com/ru
+
+Начинать отсюда
+https://docs.github.com/ru/get-started
+
+3. Придумать способ, как по номеру ячейки памяти ЦПУ может активировать только одну выбранную ячейку.
