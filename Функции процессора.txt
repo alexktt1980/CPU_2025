@@ -36,4 +36,6 @@ mov 0b0011, RA
 Пример.
 mov 0b0011, RA				RA = 0b0011
 add 0b1100, RA				RA = 0b1111
-mov RA, mc 0b000000			
+mov RA, mc 0b000000	
+
+5. При работе с памятью 		
